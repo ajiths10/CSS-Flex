@@ -5,7 +5,9 @@ ul{
     border: 1px dotted red;
     display: flex;
     flex-direction: row;
-    justify-content: flex-end;
+    justify-content: center;
+    height: 300px;
+    align-items: center;
 }
 li{
     border: 1px solid black;
